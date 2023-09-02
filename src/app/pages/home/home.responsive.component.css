@@ -1,0 +1,9 @@
+@media screen and (max-width:600px){
+    .container_articles {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        overflow-x: hidden;
+    }
+}
+

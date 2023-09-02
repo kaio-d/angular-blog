@@ -1,0 +1,11 @@
+@media screen and (max-width:600px){
+    .container_small-card {
+        width: auto;
+        margin-bottom: 15px;
+      }
+
+    .small-card_title > h1 > a{
+        font-size: 15px;
+    }
+       
+}
