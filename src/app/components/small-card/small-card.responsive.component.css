@@ -9,3 +9,16 @@
     }
        
 }
+
+
+@media screen and (max-width:900px){
+    .container_small-card {
+        width: auto;
+      }
+
+    .small-card_title > h1 > a{
+        font-size: 20px;
+    }
+       
+}
+

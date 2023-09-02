@@ -1,9 +1,8 @@
 @media screen and (max-width: 600px) {
   .container_big-card {
     width: auto;
-
   }
-  
+
   .big-card_title > h1 {
     font-size: 20px;
   }
@@ -15,5 +14,11 @@
   .big-card_photo > img {
     width: 100%;
     min-width: 200px;
+  }
+}
+
+@media screen and(max-width: 900) {
+  .container_big-card {
+    width: auto;
   }
 }
