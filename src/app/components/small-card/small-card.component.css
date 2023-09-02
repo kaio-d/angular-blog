@@ -23,3 +23,7 @@
 .container_small-card-separator {
     margin-top: 10px;
 }
+
+.container_small-card a:hover{
+  color: #ffc500;
+}

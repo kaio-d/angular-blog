@@ -27,3 +27,7 @@
   width: 100%;
   min-width: 400px;
 }
+
+.container_big-card a:hover {
+  color: #ffc500;
+} 
